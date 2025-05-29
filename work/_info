@@ -8,35 +8,35 @@ z2
 !i10f 100
 cModel Technology
 dD:/
-Ehalf_adder
-Z0 w1748535460
+Efull_adder
+Z0 w1748537059
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
-Z3 dD:/RAY ANNA/1.OPENING
-Z4 8D:/RAY ANNA/1.OPENING/HALF ADDER .vhd
-Z5 FD:/RAY ANNA/1.OPENING/HALF ADDER .vhd
+Z3 dD:/Animation
+Z4 8D:/Animation/FULL ADDER.vhd
+Z5 FD:/Animation/FULL ADDER.vhd
 l0
 L4
-V5JH_CT4Y1Kc?WgL[?ij8e1
-!s100 ohTDAViNThXizf8Wkn_EK2
+Vl3e]:38=:?i;WB6z3W8YN3
+!s100 EgTkJ>^TBSbaJ;bFVAJJ]3
 Z6 OV;C;10.5b;63
 32
-Z7 !s110 1748535463
+Z7 !s110 1748537063
 !i10b 1
-Z8 !s108 1748535463.000000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/RAY ANNA/1.OPENING/HALF ADDER .vhd|
-Z10 !s107 D:/RAY ANNA/1.OPENING/HALF ADDER .vhd|
+Z8 !s108 1748537063.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Animation/FULL ADDER.vhd|
+Z10 !s107 D:/Animation/FULL ADDER.vhd|
 !i113 1
 Z11 o-work work -2002 -explicit
 Z12 tExplicit 1 CvgOpt 0
 Adata
 R1
 R2
-DEx4 work 10 half_adder 0 22 5JH_CT4Y1Kc?WgL[?ij8e1
+DEx4 work 10 full_adder 0 22 l3e]:38=:?i;WB6z3W8YN3
 l13
 L12
-VN=70WZk^T9LXUIX]Yk5R_3
-!s100 k9iAce:iN]DaV@4;VbG4i1
+VFgEAOlb7R3Pf3g`XQM7^@2
+!s100 bRi@fE]L<?a1Wza2n]_DT0
 R6
 32
 R7
