@@ -1,0 +1,49 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/
+Eandgate
+Z0 w1748507083
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/RAY ANNA/6.PACKING
+Z4 8D:/RAY ANNA/6.PACKING/Simulation of logic gates using VHDL.vhd
+Z5 FD:/RAY ANNA/6.PACKING/Simulation of logic gates using VHDL.vhd
+l0
+L4
+V7fW?0j8Y^2>E69FHNQTQB2
+!s100 aPmM0W;nJL<Pkji@RnK=h0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1748507111
+!i10b 1
+Z8 !s108 1748507111.000000
+Z9 !s90 -reportprogress|300|-work|Work|-2002|-explicit|-stats=none|D:/RAY ANNA/6.PACKING/Simulation of logic gates using VHDL.vhd|
+Z10 !s107 D:/RAY ANNA/6.PACKING/Simulation of logic gates using VHDL.vhd|
+!i113 1
+Z11 o-work Work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aandlogic
+R1
+R2
+DEx4 work 7 andgate 0 22 7fW?0j8Y^2>E69FHNQTQB2
+l13
+L12
+V@L9IPFNVM4fO:5ddFCa742
+!s100 fCX<=[W@?o;3hhcTdUmEc2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
